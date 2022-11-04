@@ -1,0 +1,65 @@
+.sanpham {
+	background-color: white;
+	border-radius: 10px;
+	padding: 10px;
+	float: left;
+}
+
+.sanpham>img {
+	width: 500px;
+	height: 400px;
+	float: left;
+	padding-left: 20%;
+}
+
+.namsp {
+	text-align: center;
+	font-size: medium;
+	padding-right: 7%;
+}
+
+.og {
+	float: left;
+	padding-left: 15%;
+}
+
+.og select {
+	width: 150px;
+	height: 40px;
+	background-color: white;
+	box-shadow: 0 0 3px white;
+	border: 1px solid blue;
+	font-size: larger;
+}
+
+.nut .btn-outline-warning {
+	width: 300px;
+	height: 50px;
+	font-size: 25px;
+}
+
+.gia .l-through {
+	text-decoration: line-through;
+	color: #cccccc;
+	margin-bottom: 0;
+}
+
+.gia {
+	display: flex;
+	padding-left: 25%;
+}
+
+.gia h6 {
+	padding: 0 20px 0 0;
+	font-size: 25px;
+}
+
+.tt .btn-outline-warning {
+	width: 300px;
+	height: 50px;
+	font-size: 25px;
+}
+
+.tt {
+	float: right;
+}
